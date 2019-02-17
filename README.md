@@ -10,7 +10,7 @@ For this particular exercise, I decided on a topic that was a little bit outside
 
 The initial problem with my data set was that, although it was featured on Kaggle and contained about 2.2 gb of information; the only way to access was via GoogleBigQuery or via a Kaggle kernel. This was an interesting experience as I never had used big query before. After many failed attempts to access the cluster, I never did manage to access the data set. Although I did find out what Kaggle kernels are, and that will definitely be of interest for future projects.
 
-My method of upload and extraction initially began with attempting to upload the data set to amazon s3 services. Another road block occurred, in that I could not successfully access the bucket with the jupyter notebook so I decided the store the file locally to elevate further headaches.
+My method of upload and extraction initially began with attempting to upload the data set to amazon s3 services. Another road block occurred, in that I could not successfully access the bucket with the jupyter notebook so I decided the store the file locally to eleviate further headaches.
   
 ## Problem
 
